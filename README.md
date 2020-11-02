@@ -5,5 +5,5 @@ First Change on doc. proyect.
 
 Second change on proyect.
 
-bug indexed by HuMaN!
+Bug fixed!!
 
