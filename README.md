@@ -4,3 +4,6 @@ Esta es la practica final del curso de Prework buenas practicas para entorno de 
 First Change on doc. proyect.
 
 Second change on proyect.
+
+bug indexed by HuMaN!
+
